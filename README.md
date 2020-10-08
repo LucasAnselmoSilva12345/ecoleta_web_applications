@@ -12,8 +12,9 @@ The project I'm participating in, and a site called 'Ecoleta', a site for you to
 During this week, despite being only the 3rd day, many lessons have been learned so far, lessons like:
 </h4>
 <p>
-[x] Programming has no secret to learn quickly, it has to be little by little, doing small projects every day, and always willing to learn and practice.
-[x] Be always a dedicated person and always seek to innovate in your projects, try something different, take more chances.
+[x]Programming has no secret to learn quickly, it has to be little by little, doing small projects every day, and always willing to learn and practice.
+<br/>
+[x]Be always a dedicated person and always seek to innovate in your projects, try something different, take more chances.
 </p>
 
 <h3>
@@ -22,7 +23,7 @@ This project is already on my list of favorites and Rocketseat, along with Diego
 
 <h2>
 LinkedIn: <br/>
-[x] <a href="https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_nextlevelweek-nlw-rocketseat-activity-6675464617474457600-0rkQ" alt="Linkedin">
+[x]<a href="https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_nextlevelweek-nlw-rocketseat-activity-6675464617474457600-0rkQ" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
 
 </h2>
