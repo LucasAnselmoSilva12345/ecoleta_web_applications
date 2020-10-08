@@ -14,7 +14,6 @@ During this week, despite being only the 3rd day, many lessons have been learned
 <p>
   
 - [X] Programming has no secret to learn quickly, it has to be little by little, doing small projects every day, and always willing to learn and practice.
-<br/>
 - [X] Be always a dedicated person and always seek to innovate in your projects, try something different, take more chances.
 </p>
 
