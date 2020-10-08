@@ -24,7 +24,7 @@ This project is already on my list of favorites and Rocketseat, along with Diego
 
 <h2>
 LinkedIn: <br/>
-- [X] <a href="https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_nextlevelweek-nlw-rocketseat-activity-6675464617474457600-0rkQ" alt="Linkedin">
+  <a href="https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_nextlevelweek-nlw-rocketseat-activity-6675464617474457600-0rkQ" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
 
 </h2>
