@@ -12,7 +12,7 @@ The project I'm participating in, and a site called 'Ecoleta', a site for you to
 During this week, despite being only the 3rd day, many lessons have been learned so far, lessons like:
 </h4>
 <p>
-[x]Programming has no secret to learn quickly, it has to be little by little, doing small projects every day, and always willing to learn and practice.
+[X]Programming has no secret to learn quickly, it has to be little by little, doing small projects every day, and always willing to learn and practice.
 <br/>
 [x]Be always a dedicated person and always seek to innovate in your projects, try something different, take more chances.
 </p>
