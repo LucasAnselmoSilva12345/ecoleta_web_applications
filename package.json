@@ -1,0 +1,16 @@
+{
+  "name": "ecoleta_web_application",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "Lucas Anselmo",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/sqlite3": "^3.1.6",
+    "nodemon": "^2.0.4"
+  }
+}
