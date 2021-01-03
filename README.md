@@ -1,7 +1,5 @@
 # Ecoleta
 
-## Trilha Starter
-
 ### The week from June 5th until June 09th, we celebrate the world environment week.
 
 <h4>
@@ -17,9 +15,15 @@ During this week, despite being only the 3rd day, many lessons have been learned
 - [X] Be always a dedicated person and always seek to innovate in your projects, try something different, take more chances.
 </p>
 
-<h3>
-This project is already on my list of favorites and Rocketseat, along with Diego and Mayk, are to be congratulated
-</h3>
+<br/>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50796407628/in/dateposted-public/" title="home"><img src="https://live.staticflickr.com/65535/50796407628_051da3a0fd_z.jpg" width="640" height="344" alt="home"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50797158446/in/dateposted-public/" title="create"><img src="https://live.staticflickr.com/65535/50797158446_1b9ea864f0_z.jpg" width="640" height="343" alt="create"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50797274922/in/dateposted-public/" title="create_2"><img src="https://live.staticflickr.com/65535/50797274922_0ee4be156d_z.jpg" width="640" height="284" alt="create_2"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50797274882/in/dateposted-public/" title="search"><img src="https://live.staticflickr.com/65535/50797274882_8470eb96d1_z.jpg" width="640" height="341" alt="search"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50796407568/in/dateposted-public/" title="search_2"><img src="https://live.staticflickr.com/65535/50796407568_7e0fca76a4_z.jpg" width="640" height="343" alt="search_2"></a>
+
+<br/>
 
 <h2>
 LinkedIn: <br/>
